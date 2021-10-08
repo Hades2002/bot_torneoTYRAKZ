@@ -24,6 +24,7 @@ npm install
 ![UniConverter 13_20211008193454](https://user-images.githubusercontent.com/32782329/136631650-7822d093-534d-4872-9e2e-a8b374b02895.gif)
 
 <br>
+
 Por ende se creara un canal más un rol, y donde en ese canal creado solamente ustedes pueden entrar.
 **¿Por que tengo que mencionar a mi amigo?**
 <br>Porque se creaba un rol donde tu amigo y vos eran añadidos, luego se crea canal donde en ese canal solo pueden entrar los que tengan el rol creado recientamente.
