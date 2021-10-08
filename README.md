@@ -20,9 +20,7 @@ npm install
 /register [Nombre de tu equipo] @[Mencionar a tu amigo de discord]
 ``` 
 <br>
-
-https://user-images.githubusercontent.com/32782329/136631965-43760cb6-094f-40a7-bec0-439919ce7e22.mp4
-
+<img src="https://user-images.githubusercontent.com/32782329/136633806-e6d5537b-df63-4bc8-a166-6aaa8b9f91db.gif" width="40" height="40" />
 <br>
 
 Por ende se creara un canal más un rol, y donde en ese canal creado solamente ustedes pueden entrar.
@@ -32,7 +30,7 @@ Por ende se creara un canal más un rol, y donde en ese canal creado solamente u
 
 **Un dato a destacar que con el bot automatizado creando esos canales tarda 6 segundos pero si lo hace una persona manualmente se demoraria 25 segundos y und dato no menor que si es manualmente se necesitaria una persona con los permisos necesarios para poder registrar.**
 
-https://user-images.githubusercontent.com/32782329/136631950-b2be6ad2-0146-40df-80b2-0d836982a02f.mp4
+<img src="https://user-images.githubusercontent.com/32782329/136633811-ca356065-c8d1-4986-99ad-806bcc541658.gif" width="40" height="40" />
 
 
 
