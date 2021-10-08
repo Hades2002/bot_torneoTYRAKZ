@@ -25,7 +25,7 @@ npm install
 
 <br>
 Por ende se creara un canal más un rol, y donde en ese canal creado solamente ustedes pueden entrar.
-
+<br>
 **¿Por que tengo que mencionar a mi amigo?**
 <br>Porque se creaba un rol donde tu amigo y vos eran añadidos, luego se crea canal donde en ese canal solo pueden entrar los que tengan el rol creado recientamente.
 
