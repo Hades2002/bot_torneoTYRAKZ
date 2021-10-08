@@ -20,7 +20,10 @@ npm install
 /register [Nombre de tu equipo] @[Mencionar a tu amigo de discord]
 ``` 
 <br>
-https://user-images.githubusercontent.com/32782329/136635847-b6502eac-c521-47f2-b85d-386582943293.mp4
+<video width="320" height="240" autoplay>
+  <source src="https://user-images.githubusercontent.com/32782329/136635847-b6502eac-c521-47f2-b85d-386582943293.mp4" type="video/mp4">
+</video>
+
 <br>
 
 Por ende se creara un canal más un rol, y donde en ese canal creado solamente ustedes pueden entrar.
