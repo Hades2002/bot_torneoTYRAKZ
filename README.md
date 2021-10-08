@@ -16,9 +16,11 @@ npm install
 **¿Como me registro al torneo?**
 <br>El torneo era DUO, por ende el codigo esta basado para este tipos de torneos. Que solamente el capitan tiene que registrar su equipo.
 
-**/register [Nombre de tu equipo] @[Mencionar a tu amigo de discord que es tu duo]**
+``` 
+**/register [Nombre de tu equipo] @[Mencionar a tu amigo de discord]**
+``` 
 
-Por ende se creara un canal más un rol, y donde ese canal creado solamente ustedes pueden entrar.
+Por ende se creara un canal más un rol, y donde en ese canal creado solamente ustedes pueden entrar.
 
 **¿Porque tengo que mencionar a mi amigo?**
 Por que se creaba un rol donde tu amigo y vos eran añadidos, luego se crea canal donde en ese canal solo pueden entrar los que tengan el rol creado recientamente.
