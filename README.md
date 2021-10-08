@@ -21,7 +21,7 @@ npm install
 ``` 
 <br>
 
-![UniConverter 13_20211008193454](https://user-images.githubusercontent.com/32782329/136631650-7822d093-534d-4872-9e2e-a8b374b02895.gif)
+https://user-images.githubusercontent.com/32782329/136631965-43760cb6-094f-40a7-bec0-439919ce7e22.mp4
 
 <br>
 
@@ -31,4 +31,8 @@ Por ende se creara un canal más un rol, y donde en ese canal creado solamente u
 <br>Porque se creaba un rol donde tu amigo y vos eran añadidos, luego se crea canal donde en ese canal solo pueden entrar los que tengan el rol creado recientamente.
 
 **Un dato a destacar que con el bot automatizado creando esos canales tarda 6 segundos pero si lo hace una persona manualmente se demoraria 25 segundos y und dato no menor que si es manualmente se necesitaria una persona con los permisos necesarios para poder registrar.**
+
+https://user-images.githubusercontent.com/32782329/136631950-b2be6ad2-0146-40df-80b2-0d836982a02f.mp4
+
+
 
