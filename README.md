@@ -8,9 +8,9 @@ npm install
 
 # **COMANDOS PARA EL CLIENTE:**
 ``` 
-> /help | Mostrara toda la infroamcion del bot
-> /torneo | Mostrara toda la informacion actual del torneo
-> /register   | Comando para registrar a tu equipo
+> /help     | Mostrara toda la infroamcion del bot
+> /torneo   | Mostrara toda la informacion actual del torneo
+> /register | Comando para registrar a tu equipo
 ```
 
 **¿Como me registro al torneo?**
