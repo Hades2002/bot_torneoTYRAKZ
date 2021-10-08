@@ -25,5 +25,4 @@ Por ende se creara un canal más un rol, y donde en ese canal creado solamente u
 **¿Porque tengo que mencionar a mi amigo?**
 Por que se creaba un rol donde tu amigo y vos eran añadidos, luego se crea canal donde en ese canal solo pueden entrar los que tengan el rol creado recientamente.
 
-**Un dato a destacar que con el bot automatizado creando esos canales tarda 6 segundos pero si lo hace una persona manualmente se demoraria 25 segundos.
-Ademas lo que permitiria que es que las personas se puedan registrar cuando ellos quisieran sin la intervencion humano.**
+#**Un dato a destacar que con el bot automatizado creando esos canales tarda 6 segundos pero si lo hace una persona manualmente se demoraria 25 segundos y und dato no menor que si es manualmente se necesitaria una persona con los permisos necesarios para poder registrar.**
