@@ -17,7 +17,7 @@ npm install
 <br>El torneo era DUO, por ende el codigo esta basado para este tipos de torneos. Que solamente el capitan tiene que registrar su equipo.
 
 ``` 
-**/register [Nombre de tu equipo] @[Mencionar a tu amigo de discord]**
+/register [Nombre de tu equipo] @[Mencionar a tu amigo de discord]
 ``` 
 
 Por ende se creara un canal más un rol, y donde en ese canal creado solamente ustedes pueden entrar.
