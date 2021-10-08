@@ -1,17 +1,20 @@
-# bot_torneoTYRAKZ
-El objetivo del BOT fue crear un sistema de registración avanzado ambientado para torneos competitivos, donde sus equipos puedan tener canales de voz personalizados y exclusivos para ellos.
+# **BOT tournamentTYRAKZ**
+### El objetivo del BOT fue crear un sistema de registración avanzado ambientado para torneos competitivos, donde sus equipos puedan tener canales de voz personalizados y exclusivos para ellos.
 
-Librerias utilizadas discord.js
+Librerias que necesitaras **discord.js**
+```
+npm install
+```
 
-**COMANDOS PARA EL CLIENTE:**
-* /help => Mostrara todo la informacion del bot
-* /torneo => Un mensaje que recibira el usuario con todas las intrucciones para registrarse al torneo
-* /register => Usuario donde se tendra que registrar su equipo.
-* /ping => Para ver la latencia de los servidores de DISCORD API.
+# **COMANDOS PARA EL CLIENTE:**
+``` 
+> /help | Mostrara toda la infroamcion del bot
+> /torneo | Mostrara toda la informacion actual del torneo
+> /register   | Comando para registrar a tu equipo
+```
 
-**¿COMO ME REGISTRO AL TORNEO?**
-El torneo era DUO por lo tanto los canales que se creaban para esos equipos su maximo era de 2 personas.
-Igual esa restriccion se podia pasar por alto porque en realidad solo podian entrar las personas que tenian el rol de ese canal.
+**¿Como me registro al torneo?**
+<br>El torneo era DUO, por ende el codigo esta basado para este tipos de torneos. Que solamente el capitan tiene que registrar su equipo.
 
 **/register [Nombre de tu equipo] @[Mencionar a tu amigo de discord que es tu duo]**
 
