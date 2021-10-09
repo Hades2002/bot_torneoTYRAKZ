@@ -21,8 +21,6 @@ npm install
 ``` 
 <br>
 
-https://user-images.githubusercontent.com/32782329/136644000-26b7a04c-b8ed-4114-8077-f0dfd938e137.mp4
-
 <br>
 
 Por ende se creara un canal más un rol, y donde en ese canal creado solamente ustedes pueden entrar.
