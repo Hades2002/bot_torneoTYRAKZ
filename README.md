@@ -23,7 +23,7 @@ npm install
 ``` 
 <br>
 
-#Demostracion del comando /register
+# Demostracion del comando /register
 A continuacion de muestra como es el uso del comando register, como se ve, si el usuario no ingresa el nombre de su equipo y/o el integrante, se mostraran las restricciones, en caso que esten, el comando se ejectura satisfactoriamente.
 
 https://user-images.githubusercontent.com/32782329/136644129-759dc21b-0626-4d07-9710-80c87de0dd39.mp4
