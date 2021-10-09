@@ -36,4 +36,8 @@ Por ende se creara un canal más un rol, y donde en ese canal creado solamente u
 
 **Un dato a destacar que con el bot automatizado creando esos canales tarda 6 segundos pero si lo hace una persona manualmente se demoraria 25 segundos y und dato no menor que si es manualmente se necesitaria una persona con los permisos necesarios para poder registrar.**
 
+<br>
+
+https://user-images.githubusercontent.com/32782329/136644179-efb19fa7-c896-4a7c-ad60-40af0482508b.mp4
+
 
