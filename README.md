@@ -21,14 +21,6 @@ npm install
 ``` 
 <br>
 
-https://www.youtube.com/watch?v=fWA1ru536n0
-
-
-
-https://user-images.githubusercontent.com/32782329/136643875-b889c70f-24b4-43a6-bf54-ab17b11c2c41.mp4
-
-
-
 
 <br>
 
