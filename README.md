@@ -21,11 +21,7 @@ npm install
 ``` 
 <br>
 
-
-
-https://user-images.githubusercontent.com/32782329/136643765-43f5d56b-5125-45f4-b088-1d77757a7354.mp4
-
-
+[![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://www.youtube.com/watch?v=fWA1ru536n0)
 
 <br>
 
