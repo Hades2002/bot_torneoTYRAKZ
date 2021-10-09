@@ -17,7 +17,7 @@ La función de este producto es reducir el tiempo de registración ya que el sis
 ``` 
 /register [Nombre de tu equipo] @[Mencionar a tu amigo de discord]
 ``` 
-A continuacion se muestra como es el uso del comando **/register**, como se ve, si el usuario no ingresa el nombre de su equipo y/o del integrante, se mostraran las siguentes restricciones, en caso que esten, el comando se ejectura satisfactoriamente, creando el rol y el canal exclusvio para su equipo.
+A continuacion se muestra como es el uso del comando **/register**, como se ve, si el usuario no ingresa el nombre de su equipo y/o del integrante, se mostraran las siguentes restricciones, en caso que esten todo los datos necesarios, el comando se ejectura satisfactoriamente, creando el rol y el canal exclusvio para su equipo.
 
 https://user-images.githubusercontent.com/32782329/136644129-759dc21b-0626-4d07-9710-80c87de0dd39.mp4
 
@@ -30,7 +30,8 @@ https://user-images.githubusercontent.com/32782329/136644129-759dc21b-0626-4d07-
 
 https://user-images.githubusercontent.com/32782329/136644179-efb19fa7-c896-4a7c-ad60-40af0482508b.mp4
 
-
+# Contexto
+El codigo fue creado para un torneo en DUOS, por ende si se etiquetan mas de dos personas dejara de funcionar. A futuro el codigo lo mejorare para que si etiquetan x personas, tambien les de permisos para que puedan entrar a su canal personalizado en ese momento.
 
 
 
