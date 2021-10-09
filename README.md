@@ -41,8 +41,21 @@ Por ende se creara un canal más un rol, y donde en ese canal creado solamente u
 https://user-images.githubusercontent.com/32782329/136644179-efb19fa7-c896-4a7c-ad60-40af0482508b.mp4
 
 RESTRICCIONES EN EL COMANDO /REGISTER
+<br>
 ![nombredelequipo](https://user-images.githubusercontent.com/32782329/136644201-7994a33d-9f8b-45e9-9c4b-0780bb760460.png)
 ![integrante](https://user-images.githubusercontent.com/32782329/136644204-6e1e9440-9c65-438d-a227-531ef2b2c968.png)
+
+![tzcomando](https://user-images.githubusercontent.com/32782329/136644220-6cfeeed1-9574-4fa2-828a-74fb8ad81b34.png)
+
+![canalcreado](https://user-images.githubusercontent.com/32782329/136644221-e881ae47-67f6-47eb-bab9-af85a64068ff.png)
+
+![darelrol1](https://user-images.githubusercontent.com/32782329/136644223-65dd8381-03a2-4ca4-a919-1c277d4347e2.png)
+
+![darelrol2]![canalcreado](https://user-images.githubusercontent.com/32782329/136644227-bf5e5547-a115-423e-9bc9-b94ab776047e.png)
+
+
+
+
 
 
 
