@@ -30,6 +30,11 @@ https://user-images.githubusercontent.com/32782329/136644129-759dc21b-0626-4d07-
 
 https://user-images.githubusercontent.com/32782329/136644179-efb19fa7-c896-4a7c-ad60-40af0482508b.mp4
 
+# Proximamente
+-Base de datos.
+-Verifacion de equipos repetidos.
+-Crear canales de voz para más de 2 personas.
+
 # Contexto
 El código fue creado para un torneo en DÚOS, por ende si se etiquetan mas de dos personas dejara de funcionar. A futuro el código lo mejorare para que si etiquetan x personas, también les de permisos para que puedan entrar a su canal personalizado en ese momento.
 
