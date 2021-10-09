@@ -42,7 +42,7 @@ Por ende se creara un canal más un rol, y donde en ese canal creado solamente u
 
 # Manaulmente vs BOT
 **Manualmente** demora más de 25 segundos con la intervencion de un administrador del grupo para poder crear los roles, canales necesarios, siempre cuando este disponible.
-**Utilizando el bot** sin la intervencion de un administrador y con el BOT los permisos correspondientes, el capitan del equipo demoraria 6 segundos en registrar a su equipo.
+**Utilizando el bot** sin la intervencion de un administrador y con el BOT los permisos correspondientes, __el capitan del equipo demoraria 6 segundos en registrar a su equipo.__
 <br>
 
 https://user-images.githubusercontent.com/32782329/136644179-efb19fa7-c896-4a7c-ad60-40af0482508b.mp4
