@@ -1,7 +1,8 @@
 # **BOT tournamentTYRAKZ**
-### El objetivo del BOT fue crear un sistema de registración avanzado ambientado para torneos competitivos, donde sus equipos puedan tener canales de voz personalizados y exclusivos para ellos.
 
-Justificación del proyecto : La función de este producto es reducir el tiempo de
+El objetivo del BOT fue crear un sistema de registración avanzado ambientado para torneos competitivos, donde sus equipos puedan tener canales de voz personalizados y exclusivos para ellos.
+
+**Justificación del proyecto :** La función de este producto es reducir el tiempo de
 registración ya que el sistema actual manual demora mucho, en cambio con el bot (el
 sistema que crea el proyecto) permite que se demore menos registrando a los equipos.
 
