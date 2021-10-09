@@ -35,7 +35,6 @@ https://user-images.githubusercontent.com/32782329/136644129-759dc21b-0626-4d07-
 https://user-images.githubusercontent.com/32782329/136644179-efb19fa7-c896-4a7c-ad60-40af0482508b.mp4
 
 # Proximamente
-<br>
 1.Base de datos.
 <br>
 2.Verifacion de equipos repetidos.
