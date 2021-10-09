@@ -40,7 +40,8 @@ Por ende se creara un canal más un rol, y donde en ese canal creado solamente u
 <br>Porque se creaba un rol donde tu amigo y vos eran añadidos, luego se crea canal donde en ese canal solo pueden entrar los que tengan el rol creado recientamente.
 
 
-# **Manualmente** demora más de 25 segundos con la intervencion de un administrador del grupo para poder crear los roles, canales necesarios, siempre cuando este disponible.
+# Manaulmente vs BOT
+**Manualmente** demora más de 25 segundos con la intervencion de un administrador del grupo para poder crear los roles, canales necesarios, siempre cuando este disponible.
 **Utilizando el bot** sin la intervencion de un administrador y con el BOT los permisos correspondientes, el capitan del equipo demoraria 6 segundos en registrar a su equipo.
 <br>
 
