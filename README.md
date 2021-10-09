@@ -2,16 +2,9 @@
 
 El objetivo del BOT fue crear un sistema de registración avanzado ambientado para torneos competitivos, donde sus equipos puedan tener canales de voz personalizados y exclusivos para ellos.
 
-**Justificación del proyecto :** La función de este producto es reducir el tiempo de
-registración ya que el sistema actual manual demora mucho, en cambio con el bot (el
-sistema que crea el proyecto) permite que se demore menos registrando a los equipos.
+La función de este producto es reducir el tiempo de registración ya que el sistema actual manual demora mucho, en cambio con el bot (el sistema que crea el proyecto) permite que se demore menos registrando a los equipos.
 
-Librerias que necesitaras **discord.js**
-```
-npm install
-```
-
-# **COMANDOS PARA EL CLIENTE:**
+# **Comandos**
 ``` 
 > /help     | Mostrara toda la informacion del bot.
 > /torneo   | Mostrara toda la informacion del torneo actual.
