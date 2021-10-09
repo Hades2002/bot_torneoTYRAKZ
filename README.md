@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/32782329/136644129-759dc21b-0626-4d07-
 
 <br>
 
-# Manaulmente vs BOT
+# Manaulmente (más de 26s.) vs BOT (menos de 6s.)
 **Manualmente** se demora más de 25 segundos con la intervencion de un administrador del grupo para poder crear los roles, canales necesarios, siempre cuando este disponible.
 **Utilizando el bot** sin la intervencion de un administrador y con el BOT los permisos correspondientes, el capitan del equipo demoraria 6 segundos en registrar a su equipo.
 <br>
