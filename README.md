@@ -49,9 +49,12 @@ RESTRICCIONES EN EL COMANDO /REGISTER
 
 ![canalcreado](https://user-images.githubusercontent.com/32782329/136644221-e881ae47-67f6-47eb-bab9-af85a64068ff.png)
 
-![darelrol1](https://user-images.githubusercontent.com/32782329/136644223-65dd8381-03a2-4ca4-a919-1c277d4347e2.png)
+![darelrol1](https://user-images.githubusercontent.com/32782329/136644245-fa8e935c-6322-43aa-b6be-f744ba9dc624.png)
 
-![darelrol2]![canalcreado](https://user-images.githubusercontent.com/32782329/136644227-bf5e5547-a115-423e-9bc9-b94ab776047e.png)
+![darelrol2](https://user-images.githubusercontent.com/32782329/136644246-db7af190-60f4-45e2-b4c5-fadb35abd2a3.png)
+
+
+
 
 
 
