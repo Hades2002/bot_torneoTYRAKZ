@@ -4,6 +4,10 @@ El objetivo del BOT fue crear un sistema de registración avanzado ambientado pa
 
 La función de este producto es reducir el tiempo de registración ya que el sistema actual manual demora mucho, en cambio con el bot permite que se demore menos registrando a los equipos.
 
+
+# Contexto
+El código fue creado para un torneo en DÚOS, por ende si se etiquetan mas de dos personas dejara de funcionar. A futuro el código lo mejorare para que si etiquetan x personas, también les de permisos para que puedan entrar a su canal personalizado en ese momento.
+
 # **Comandos**
 ``` 
 > /help     | Mostrara toda la informacion del bot.
@@ -26,17 +30,18 @@ https://user-images.githubusercontent.com/32782329/136644129-759dc21b-0626-4d07-
 # Manaulmente (más de 26s.) vs BOT (menos de 6s.)
 **Manualmente** se demora más de 25 segundos con la intervención de un administrador del grupo para poder crear los roles, canales necesarios, siempre cuando este disponible.
 **Utilizando el bot** sin la intervención de un administrador y con el BOT los permisos correspondientes, el capitán del equipo demoraría 6 segundos en registrar a su equipo.
-<br>
+
 
 https://user-images.githubusercontent.com/32782329/136644179-efb19fa7-c896-4a7c-ad60-40af0482508b.mp4
 
 # Proximamente
+<br>
 1.Base de datos.
+<br>
 2.Verifacion de equipos repetidos.
+<br>
 3.Crear canales de voz para más de 2 personas.
 
-# Contexto
-El código fue creado para un torneo en DÚOS, por ende si se etiquetan mas de dos personas dejara de funcionar. A futuro el código lo mejorare para que si etiquetan x personas, también les de permisos para que puedan entrar a su canal personalizado en ese momento.
 
 
 
